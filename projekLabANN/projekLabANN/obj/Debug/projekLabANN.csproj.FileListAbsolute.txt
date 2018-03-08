@@ -1,0 +1,17 @@
+c:\users\nicholas franko f\documents\visual studio 2015\Projects\projekLabANN\projekLabANN\bin\Debug\projekLabANN.exe.config
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\bin\Debug\projekLabANN.exe
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\bin\Debug\projekLabANN.pdb
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\obj\Debug\projekLabANN.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\obj\Debug\projekLabANN.Form1.resources
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\obj\Debug\projekLabANN.Properties.Resources.resources
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\obj\Debug\projekLabANN.csproj.GenerateResource.Cache
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\obj\Debug\projekLabANN.exe
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\obj\Debug\projekLabANN.pdb
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\bin\Debug\Accord.dll
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\bin\Debug\Accord.Imaging.dll
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\bin\Debug\Accord.Math.Core.dll
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\bin\Debug\Accord.Math.dll
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\bin\Debug\Accord.Neuro.dll
+C:\Users\Nicholas Franko F\Documents\Visual Studio 2015\Projects\projekLabANN\projekLabANN\bin\Debug\Accord.Statistics.dll
+C:\Users\Nicholas Franko F\documents\visual studio 2015\Projects\projekLabANN\projekLabANN\obj\Debug\projekLabANN.Form2.resources
+C:\Users\Nicholas Franko F\documents\visual studio 2015\Projects\projekLabANN\projekLabANN\obj\Debug\projekLabANN.Form3.resources
